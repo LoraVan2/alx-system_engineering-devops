@@ -1,1 +1,1 @@
-where am i
+working on shell, basics
